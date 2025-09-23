@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://fastream.xyz:8080/live/81801944/48v9hfe9vuj6/23967.m3u8
+http://mag.ukhd.tv:80/play/live.php?mac=00:1A:79:BE:0F:A3&stream=42959&extension=ts
+
 
 
