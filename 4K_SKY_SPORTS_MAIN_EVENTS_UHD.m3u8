@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://23232.top:80/play/live.php?mac=00:1A:79:00:23:79&stream=1608071&extension=m3u8
+http://euroturkpars5.live:8080/play/live.php?mac=00:1A:79:10:E2:29&stream=247426&extension=ts
+
