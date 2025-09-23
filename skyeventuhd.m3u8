@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=1076471&extension=ts
+http://globaltv1.net:8080/play/live.php?mac=00:1A:79:13:4F:2C&stream=591249&extension=m3u8
+
 
 
 
