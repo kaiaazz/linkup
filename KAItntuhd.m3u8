@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://app-plus.live:80/0iq4jp0j2bb/ne5zp7911c/522060
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://app-plus.live:80/live/0iq4jp0j2bb/ne5zp7911c/522060.m3u8
+
 
