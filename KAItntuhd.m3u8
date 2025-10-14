@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://app-plus.live:80/live/0iq4jp0j2bb/ne5zp7911c/522060.m3u8
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:68:16:12&stream=1379047&extension=m3u8
+
 
 
