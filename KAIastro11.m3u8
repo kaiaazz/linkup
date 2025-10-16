@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://knmediatv.xyz:80/play/live.php?mac=00:1A:79:C6:EC:A0&stream=1608071&extension=m3u8
+http://po.tomgerryservice.com:80/play/live.php?mac=00:1A:79:B5:53:A9&stream=1016544&extension=m3u8
+
 
 
 
