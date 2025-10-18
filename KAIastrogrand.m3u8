@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://line.linehunt.org:8000/play/live.php?mac=00:1A:79:AB:62:10&stream=918984&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:B2:9F&stream=115617&extension=m3u8
+
 
