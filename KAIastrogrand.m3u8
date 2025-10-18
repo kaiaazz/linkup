@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:B2:9F&stream=115617&extension=m3u8
+http://5.ccccc.in:80/play/live.php?mac=00:1A:79:0F:E8:93&stream=828096&extension=m3u8
+
 
 
