@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://bteg2025.me:80/play/live.php?mac=00:1A:79:D4:3C:F3&stream=313832&extension=m3u8
+http://185.243.7.51:80/play/live.php?mac=A0:BB:3E:25:78:00&stream=1579367&extension=m3u8
+
 
