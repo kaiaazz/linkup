@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://prixon.abcott.me:80/play/live.php?mac=00:1A:79:D7:3F:0B&stream=1471387&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://vpn.iptvtiger2.xyz:80/play/live.php?mac=00:1A:79:F0:8E:E7&stream=1471387&extension=m3u8
+
 
