@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://honeywatch.net:80/play/live.php?mac=00:1B:79:F9:76:98&stream=1579367&extension=m3u8
+http://tr.simotvgold.com:80/play/live.php?mac=00:1A:79:C8:7B:5f&stream=1579367&extension=m3u8
+
 
