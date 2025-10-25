@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=22000000
+http://mag.marsweb.co:80/play/live.php?mac=A0:BB:3E:9E:F4:93&stream=910647&extension=m3u8
+
