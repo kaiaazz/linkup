@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://familytv.top:80/play/live.php?mac=00:1A:79:76:B1:89&stream=620787&extension=m3u8
+http://line.trx-ott.com:80/play/live.php?mac=00:1B:79:37:0D:5A&stream=1579368&extension=m3u8
+
 
 
