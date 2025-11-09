@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://line.iptvwings.com:80/play/live.php?mac=00:1A:79:B5:AD:71&stream=79473&extension=m3u8
+http://magonlyx.abcott.me:80/play/live.php?mac=00:1A:79:F3:65:E4&stream=1893285&extension=m3u8
+
 
 
