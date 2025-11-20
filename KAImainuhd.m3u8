@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://tv.greatstar.me:80/play/live.php?mac=00:1A:79:C1:2F:91&stream=1608071&extension=m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://404focusnotfound.com:80/play/live.php?mac=00:1A:79:0E:23:9F&stream=1608071&extension=m3u8
+
 
