@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://egaletv.cc:80/play/live.php?mac=00:1a:79:37:47:85&stream=1775980&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:25:9B:DF&stream=115620&extension=m3u8
 
