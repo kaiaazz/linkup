@@ -1,4 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://one.d4k4u.com:80/play/live.php?mac=00:1A:79:8A:37:DB&stream=191719&extension=m3u8
