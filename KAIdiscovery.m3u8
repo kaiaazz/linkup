@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://naria.click:80/play/live.php?mac=00:1A:79:22:02:d5&stream=1776024&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:25:9B:30&stream=115399&extension=m3u8
+
 
