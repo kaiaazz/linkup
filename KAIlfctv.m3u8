@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://c02tv.xyz:8080/play/live.php?mac=A0:BB:3E:93:02:3A&stream=247519&extension=m3u8
+http://dm.lion-ott.com:80/play/live.php?mac=00:1A:79:8C:27:C8&stream=577953&extension=m3u8
+
 
 
 
