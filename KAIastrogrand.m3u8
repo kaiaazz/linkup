@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://trekronor.tv:2095/play/live.php?mac=10:27:BE:15:B8:A2&stream=1841541&extension=m3u8
+http://chaotic-streams.cc:80/play/live.php?mac=00:1A:79:17:01:06&stream=918984&extension=m3u8
+
 
 
 
