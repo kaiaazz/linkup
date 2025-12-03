@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://server.hdiptv.world:8000/play/live.php?mac=00:1A:79:64:BC:E9&stream=712&extension=m3u8
+http://mag.elite4ktv.live:80/play/live.php?mac=00:1A:79:2F:E9:13&stream=469444&extension=m3u8
+
 
 
 
