@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://drmv3-m6.info:80/play/live.php?mac=00:1A:79:84:1A:60&stream=522060&extension=m3u8
+http://omni-premium.shop:80/play/live.php?mac=A0:BB:3E:02:3B:DC&stream=1595637&extension=m3u8
+
 
 
