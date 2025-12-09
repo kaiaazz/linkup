@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://omni-premium.shop:80/play/live.php?mac=A0:BB:3E:02:3B:DC&stream=1595637&extension=m3u8
+
 
 
 
