@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://line.greatstar.me:80/play/live.php?mac=00:1A:79:62:61:65&stream=1641637&extension=m3u8
+
 
 
 
