@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://mag.strictv.com:80/play/live.php?mac=A0:BB:3E:6D:FA:B3&stream=1432150&extension=m3u8
+
