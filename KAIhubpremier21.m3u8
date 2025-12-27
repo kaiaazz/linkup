@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
-http://nk.cdnnet.xyz:80/play/live.php?mac=00:1A:79:4E:07:EE&stream=1032528&extension=m3u8
+http://globalgnet2.live:80/play/live.php?mac=00:1A:79:67:34:D5&stream=1032528&extension=m3u8
+
 
 
