@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://nomadstv.live:80/play/live.php?mac=00:1A:79:13:4F:0F&stream=10024&extension=m3u8
+
