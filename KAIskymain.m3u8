@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://exclusifott.pro:80/play/live.php?mac=00:1A:79:7B:F5:48&stream=1608071&extension=m3u8
-http://majestic-ott.com:80/play/live.php?mac=00:1A:79:B1:00:8C&stream=215921&extension=m3u8
-
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:C4:01:41&stream=83450&extension=m3u8
 
 
 
