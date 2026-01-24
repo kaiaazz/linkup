@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=26000000
-http://majestic-ott.com:80/play/live.php?mac=00:1A:79:B1:00:8C&stream=215919&extension=m3u8
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:B5:99:CD&stream=1917630&extension=m3u8
+
 
 
 
