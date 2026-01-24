@@ -1,7 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://innovationtv.eu:80/play/live.php?mac=00:1A:79:C4:01:41&stream=571245&extension=m3u8
 http://23232.top:80/play/live.php?mac=A0:BB:3E:F9:AF:58&stream=571245&extension=m3u8
+
 
 
 
