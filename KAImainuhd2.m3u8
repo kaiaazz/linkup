@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:82:43:97&stream=1905924&extension=m3u8
+http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:CF:37:EF&stream=1608071&extension=m3u8
+
 
 
 
