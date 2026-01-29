@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://pureiptv.in:80/play/live.php?mac=00:1A:79:9C:3F:92&stream=828095&extension=m3u8
+http://pureiptv.in:80/play/live.php?mac=00:1A:79:33:62:37&stream=828095&extension=m3u8
+
 
 
 
