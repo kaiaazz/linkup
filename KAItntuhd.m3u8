@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://wolfdtv.xyz:80/play/live.php?mac=00:1A:79:CF:48:66&stream=804331&extension=m3u8
+http://retrogamebox.xyz:80/play/live.php?mac=00:1A:79:32:A3:9E&stream=1595637&extension=m3u8
+
 
 
 
