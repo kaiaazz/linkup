@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://104.244.75.9:8080/play/live.php?mac=00:1A:79:14:69:16&stream=503236&extension=m3u8
+http://line.plav.cc:80/play/live.php?mac=00:1A:79:02:7F:9E&stream=1001367&extension=m3u8
+
 
 
 
