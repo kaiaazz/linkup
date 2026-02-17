@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://retrogamebox.xyz:80/play/live.php?mac=00:1A:79:32:A3:9E&stream=1471387&extension=m3u8
+http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:00:29:39&stream=1379047&extension=m3u8
+
 
 
 
