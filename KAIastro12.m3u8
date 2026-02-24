@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:B5:90:8F&stream=1016544&extension=m3u8
+http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:40:3E:64&stream=828098&extension=m3u8
+
 
 
 
