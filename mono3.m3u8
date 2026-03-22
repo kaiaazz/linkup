@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 https://love.cedip88524.workers.dev/lx-origin/th-monomax03_720/chunks.m3u8
 
