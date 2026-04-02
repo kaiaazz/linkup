@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://300300.org/play/live.php?mac=00:1A:79:C7:DC:45&stream=.org/ch/97029&extension=m3u8
