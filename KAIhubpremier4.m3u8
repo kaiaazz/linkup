@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://main2.cwdn.cx:80/play/live.php?mac=00:1A:79:5A:3F:3D&stream=827978&extension=m3u8
 http://vpn.onair8k.xyz:80/play/live.php?mac=00:1A:79:EA:CD:3D&stream=1032526&extension=m3u8
 
 
