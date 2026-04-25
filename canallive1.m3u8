@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:fb:5c:57&stream=958693&extension=m3u8
 http://foxbleu.pro:80/play/live.php?mac=00:1A:79:73:DF:4E&stream=327340&extension=m3u8
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:31:33:32&stream=689894&extension=m3u8
