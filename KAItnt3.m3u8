@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:00:29:39&stream=30565&extension=m3u8
+http://185.191.127.129:2095/play/live.php?mac=10:27:BE:15:B8:3C&stream=9846&extension=m3u8
 
 
 
