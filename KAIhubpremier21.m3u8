@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+http://trxad.top:80/play/live.php?mac=10:27:BE:3D:A6:FE&stream=1032528&extension=m3u8
 http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:7D:F3:61&stream=1032529&extension=m3u8
 
 
