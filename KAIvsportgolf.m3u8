@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
+http://line.8kultradnscloud.ru:80/play/live.php?mac=00%3A1A%3A79%3A7F%3A76%3A66&stream=294066&extension=m3u8
