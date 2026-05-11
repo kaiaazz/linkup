@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://alpha-2ott.me:80/play/live.php?mac=00:1A:79:C3:AA:03&stream=1761500&extension=m3u8
+http://mag.jee-ott.xyz:80/play/live.php?mac=00%3A1A%3A79%3ACC%3A4F%3ACD&stream=1641637&extension=m3u8
 http://asokax6.com:80/play/live.php?mac=00:1A:79:55:11:77&stream=1134459&extension=m3u8
 
 
