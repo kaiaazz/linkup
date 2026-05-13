@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+https://lb-gmmz.sky-cdn.com/gmm/gmm25.m3u8
 https://love.catep78148.workers.dev/lx-origin/sd-gmmchannel_480/chunks.m3u8
