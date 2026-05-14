@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:2F:23:B8&stream=948423&extension=m3u8
 http://185.191.127.129:2095/play/live.php?mac=10:27:BE:15:B8:3C&stream=479327&extension=m3u8
 http://19801-pamela.ott-cdn.me:80/play/live.php?mac=00:1A:79:40:3E:64&stream=769450&extension=m3u8
 
