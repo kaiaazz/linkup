@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://trxad.top:80/play/live.php?mac=10:27:BE:3D:A6:FE&stream=918983&extension=m3u8
-http://plpls-lite.ch:80/play/live.php?mac=00%3A1A%3A79%3A05%3AC9%3A83&stream=1016545&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0A:EA:A5&stream=115618&extension=m3u8
+
 
 
 
