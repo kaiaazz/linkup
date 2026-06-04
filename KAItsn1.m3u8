@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:0E:1F:9E&stream=902070&extension=m3u8
 http://45.139.122.199:8080/play/live.php?mac=00:1A:79:71:B1:56&stream=10921&extension=m3u8
 http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:A7:F0:D8&stream=487807&extension=m3u8
 http://prm.worldip.nl:80/play/live.php?mac=00:1A:79:BB:FD:6B&stream=18139&extension=m3u8
+
