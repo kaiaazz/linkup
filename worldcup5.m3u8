@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://line.iptvgoat.com:80/play/live.php?mac=00%3A1A%3A79%3AB5%3A87%3AFE&stream=45570&extension=m3u8
