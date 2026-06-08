@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+https://one.shchenyu8810.workers.dev/live/one/index.m3u8
