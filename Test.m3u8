@@ -1,6 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-#EXTVLCOPT:http-referrer=https://atmflix.live/
-https://cdn2.stream.atmflix.live/atmflixlive/vbtv/chunks.m3u8
-
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:7E:71:A1&stream=1747260&extension=m3u8
