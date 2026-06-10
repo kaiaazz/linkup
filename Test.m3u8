@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://anonymoustv.club:80/8norYWvpN9/LTo7hucgZI/200230
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+#EXTVLCOPT:http-referrer=https://atmflix.live/
+https://cdn2.stream.atmflix.live/atmflixlive/vbtv/chunks.m3u8
 
