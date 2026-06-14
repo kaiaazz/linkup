@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://45.139.122.199:2095/play/live.php?mac=10:27:BE:25:9B:30&stream=813150&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0A:EA:A5&stream=813150&extension=m3u8
 https://love.tivov68423.workers.dev/vx-origin/epl-bein3_720/chunks.m3u8
