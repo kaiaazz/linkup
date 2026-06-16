@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C3:B9:B1&stream=2089770&extension=m3u8
 http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:4A:58:F4&stream=394403&extension=m3u8
 http://iptv.jinbox.nl:80/play/live.php?mac=00:1A:79:64:D9:A8&stream=22471&extension=m3u8
 http://premium-iptv.cpltvdm.me:80/play/live.php?mac=00:1a:79:64:37:6b&stream=216113&extension=m3u8
