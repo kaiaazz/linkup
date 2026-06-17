@@ -3,6 +3,7 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://nour.homes:80/play/live.php?mac=00:1A:79:B8:2B:B6&stream=1944361&extension=m3u8
 http://nour.homes:80/play/live.php?mac=00:1A:79:B8:2B:B6&stream=1944483&extension=m3u8
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:07:8A:85&stream=2077617&extension=m3u8
 http://31.57.111.9:80/play/live.php?mac=00:1A:79:B4:B6:E7&stream=1946727&extension=m3u8
 http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C3:B9:B1&stream=2077617&extension=m3u8
 http://31.57.111.9:80/play/live.php?mac=00:1A:79:B4:B6:E7&stream=1944357&extension=m3u8
