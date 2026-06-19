@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://me.mdmfista.com:80/play/live.php?mac=A0:BB:3E:03:AA:E3&stream=1745095&extension=m3u8
-http://185.80.197.39:80/play/live.php?mac=00:1A:79:B5:9F:AA&stream=2090204&extension=m3u8
 http://vip058esmertv.live:8080/play/live.php?mac=00:1A:79:76:fd:1f&stream=1095671&extension=m3u8
+http://185.80.197.39:80/play/live.php?mac=00:1A:79:B5:9F:AA&stream=2090204&extension=m3u8
 
