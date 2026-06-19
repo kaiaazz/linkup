@@ -3,6 +3,7 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://izzantv.webhop.me:80/play/live.php?mac=00:1A:79:1C:08:5F&stream=1745108&extension=m3u8
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:83:2A:95&stream=1745108&extension=m3u8
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:D1:EA:F2&stream=1745108&extension=m3u8
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:D1:EA:F2&stream=858547&extension=m3u8
 http://premium-iptv.cpltvdm.me:80/play/live.php?mac=00:1a:79:64:37:6b&stream=328813&extension=m3u8
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:0E:1F:9E&stream=858547&extension=m3u8
