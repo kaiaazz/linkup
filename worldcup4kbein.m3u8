@@ -2,5 +2,6 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://nour.homes:80/play/live.php?mac=00:1A:79:B8:2B:B6&stream=1950411&extension=m3u8
+http://3tv.pro:80/play/live.php?mac=00:1A:79:33:4E:BF&stream=2097322&extension=m3u8
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0A:EA:A5&stream=2429257&extension=m3u8
 http://weaseltv.live:80/play/live.php?mac=00:1A:79:07:8A:85&stream=2095904&extension=m3u8
