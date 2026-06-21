@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://nour.homes:80/play/live.php?mac=00:1A:79:B8:2B:B6&stream=1950411&extension=m3u8
+http://103.176.90.27:80/play/live.php?mac=00:1B:79:F9:1F:46&stream=2098112&extension=m3u8
 http://3tv.pro:80/play/live.php?mac=00:1A:79:33:4E:BF&stream=2097322&extension=m3u8
 http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:C8:7C:76&stream=2097322&extension=m3u8
 http://185.80.197.39:80/play/live.php?mac=00:1A:79:B5:9F:AA&stream=2098112&extension=m3u8
