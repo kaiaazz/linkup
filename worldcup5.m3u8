@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://103.176.90.27:80/play/live.php?mac=00:1B:79:F9:1F:46&stream=2095903&extension=m3u8
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:83:2A:95&stream=1745114&extension=m3u8
 http://tv.trexiptv.com:80/play/live.php?mac=A0:BB:3E:01:65:DC&stream=2089767&extension=m3u8
 http://185.80.197.39:80/play/live.php?mac=00:1A:79:B5:9F:AA&stream=2077006&extension=m3u8
