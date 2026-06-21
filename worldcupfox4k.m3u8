@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://premium-iptv.cpltvdm.me:80/play/live.php?mac=00:1a:79:64:37:6b&stream=465858&extension=m3u8
+http://103.176.90.27:80/play/live.php?mac=00:1B:79:F9:1F:46&stream=2095902&extension=m3u8
 http://tv.trexiptv.com:80/play/live.php?mac=A0:BB:3E:01:65:DC&stream=2095902&extension=m3u8
 http://3tv.pro:80/play/live.php?mac=00:1A:79:33:4E:BF&stream=2095902&extension=m3u8
 http://innovationdns.eu:80/play/live.php?mac=00:1A:79:1F:B8:EA&stream=2095901&extension=m3u8
