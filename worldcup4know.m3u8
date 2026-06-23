@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://103.176.90.27:80/play/live.php?mac=00:1A:79:C4:2E:B5&stream=2094027&extension=m3u8
 http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:C8:7C:76&stream=2095898&extension=m3u8
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:25:95:10&stream=117957&extension=m3u8
 http://foxbleu.pro:80/play/live.php?mac=00:1A:79:74:8F:27&stream=465865&extension=m3u8
 http://premium-iptv.cpltvdm.me:80/play/live.php?mac=00:1a:79:64:37:6b&stream=465865&extension=m3u8
 http://weaseltv.live:80/play/live.php?mac=00:1A:79:07:8A:85&stream=2095898&extension=m3u8
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:C4:2E:B5&stream=2094027&extension=m3u8
