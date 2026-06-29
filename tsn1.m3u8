@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://playvio.cc:80/play/tA_ZMNe4Cax_V44eDy3okUerzRn-gDAA4Q8VEIRakGRguyokIRwbiwI5TlpU_XSBS2l8loHeHmJkXvnlVfEPHuBVIJrqMOOgOUJGGXpLCok9SMTYY3Hba6hg6CeSuj2Iq-ivsvGtEOol7AU1H7tDJg?ext=.m3u8
+http://45.139.122.199:8080/play/live.php?mac=00:1A:79:71:B1:56&stream=10921&extension=m3u8
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1A:79:7F:76:66&stream=904216&extension=m3u8
