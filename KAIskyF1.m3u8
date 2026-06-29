@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://dragonbox.nl:80/play/live.php?mac=00:1A:79:5E:88:EA&stream=214&extension=m3u8
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:25:9B:30&stream=1186321&extension=m3u8
 http://mag.jee-ott.xyz:80/play/live.php?mac=00%3A1A%3A79%3ACC%3A4F%3ACD&stream=1641637&extension=m3u8
 http://asokax6.com:80/play/live.php?mac=00:1A:79:55:11:77&stream=1134459&extension=m3u8
