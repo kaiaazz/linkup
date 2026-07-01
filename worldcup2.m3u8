@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://vip058esmertv.live:8080/play/live.php?mac=00:1A:79:76:fd:1f&stream=1095475&extension=m3u8
+http://vip058esmertv.live:8080/play/live.php?mac=00:1A:79:76:fd:1f&stream=1095475&extension=m3u8
 http://185.80.197.39:80/play/live.php?mac=00:1A:79:B5:9F:AA&stream=2077003&extension=m3u8
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00%3A1A%3A79%3A7F%3A76%3A66&stream=904216&extension=m3u8
 http://31.57.111.9:80/play/live.php?mac=00:1A:79:B4:B6:E7&stream=106200&extension=m3u8
