@@ -1,12 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:AA:F6:53&stream=827987&extension=m3u8
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:AA:F6:53&stream=1312812&extension=m3u8
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:AA:F6:53&stream=1312823&extension=m3u8
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:D1:EA:F2&stream=827987&extension=m3u8
-http://line.tvdsz.cc:80/play/live.php?mac=00:1B:79:4A:58:F4&stream=1312812&extension=m3u8
 http://innovationtv.eu:80/play/live.php?mac=00:1A:79:C4:01:41&stream=45268&extension=m3u8
+http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:77:55:AC&stream=577953&extension=m3u8
+http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:B6:49:24&stream=577953&extension=m3u8
 https://love.tivov68423.workers.dev/vx-origin/uk-lfctv_720/chunks.m3u8
 
 
