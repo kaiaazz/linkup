@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://exclusifott.pro:80/play/live.php?mac=00:1A:79:C3:B9:B1&stream=2104163&extension=m3u8
+http://line.godofiptv.com:80/play/live.php?mac=00:1A:79:E7:F0:76&stream=2104163&extension=m3u8
 http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:C8:7C:76&stream=2095898&extension=m3u8
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:25:95:10&stream=117957&extension=m3u8
 http://foxbleu.pro:80/play/live.php?mac=00:1A:79:74:8F:27&stream=465865&extension=m3u8
