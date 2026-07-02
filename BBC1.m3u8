@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://tv.trexiptv.com:80/play/live.php?mac=A0:BB:3E:03:B1:4C&stream=1283284&extension=m3u8
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:0E:1F:9E&stream=394415&extension=m3u8
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:0E:17:57&stream=1168940&extension=m3u8
 http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:2F:23:B8&stream=179895&extension=m3u8
 http://premium-iptv.cpltvdm.me:80/play/live.php?mac=00:1a:79:64:37:6b&stream=216117&extension=m3u8
 http://iptv.jinbox.nl:80/play/live.php?mac=00:1A:79:64:D9:A8&stream=332&extension=m3u8
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:0E:1F:9E&stream=394415&extension=m3u8
+http://tv.trexiptv.com:80/play/live.php?mac=A0:BB:3E:03:B1:4C&stream=1283284&extension=m3u8
