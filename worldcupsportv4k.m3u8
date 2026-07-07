@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://foxbleu.org:80/live/frank555/12343/465801.m3u8
 http://foxbleu.pro:80/play/live.php?mac=00:1A:79:73:DF:4E&stream=465801&extension=m3u8
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:83:2A:95&stream=1142146&extension=m3u8
 http://line.iptvgoat.com:80/play/live.php?mac=00%3A1A%3A79%3AB5%3A87%3AFE&stream=1917370&extension=m3u8
