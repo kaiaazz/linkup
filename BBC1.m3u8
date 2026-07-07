@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:0E:1F:9E&stream=394415&extension=m3u8
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:44:31:0B&stream=1745114&extension=m3u8
 http://plpls-lite.ch:80/play/live.php?mac=00%3A1A%3A79%3A05%3AC9%3A83&stream=30581&extension=m3u8
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:0E:17:57&stream=1168940&extension=m3u8
 http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:2F:23:B8&stream=179895&extension=m3u8
