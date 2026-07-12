@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://simpletv.uk:80/play/live.php?mac=00:1A:79:1B:BD:A0&stream=2095903&extension=m3u8
 http://nexusconnects.org:80/play/live.php?mac=00:1A:79:0E:1F:9E&stream=394415&extension=m3u8
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:44:31:0B&stream=1745114&extension=m3u8
 http://plpls-lite.ch:80/play/live.php?mac=00%3A1A%3A79%3A05%3AC9%3A83&stream=30581&extension=m3u8
