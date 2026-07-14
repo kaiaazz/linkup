@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0A:EA:A5&stream=115538&extension=m3u8
-https://love.tivov68423.workers.dev/vx-origin/hd-tsport3_720/chunks.m3u8
+#EXTVLCOPT:http-referrer=https://madoball.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:152.0) Gecko/20100101 Firefox/152.0
+https://godlivetv.io/madoball/2890/playlist.m3u8
