@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://line.atlaspro4k.me:80/play/live.php?mac=00:1A:79:A7:F0:D8&stream=1089330&extension=m3u8
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:1C:08:43&stream=1917628&extension=m3u8
+http://weaseltv.live:80/play/live.php?mac=00:1A:79:73:0B:B0&stream=1917628&extension=m3u8
+
 
