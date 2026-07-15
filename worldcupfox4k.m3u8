@@ -2,6 +2,9 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://a47.streamtrx.xyz:80/play/live.php?mac=00:1B:79:33:76:BD&stream=2095902&extension=m3u8
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:1C:08:43&stream=2095902&extension=m3u8
+http://simpletv.uk:80/play/live.php?mac=00:1A:79:1B:BD:A0&stream=2095901&extension=m3u8
+http://simpletv.uk:80/play/live.php?mac=00:1A:79:1B:BD:A0&stream=2095902&extension=m3u8
 http://103.176.90.27:80/play/live.php?mac=00:1B:79:F9:1F:46&stream=2095902&extension=m3u8
 http://tv.trexiptv.com:80/play/live.php?mac=A0:BB:3E:01:65:DC&stream=2095902&extension=m3u8
 http://innovationdns.eu:80/play/live.php?mac=00:1A:79:1F:B8:EA&stream=2095901&extension=m3u8
