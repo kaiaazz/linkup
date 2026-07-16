@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://185.80.197.55/play/live.php?mac=00:1A:79:72:F3:F0&stream=1660493&extension=m3u8
 https://www.livedoomovies.com:4431/Monomax_PL_1HD/playlist.m3u8
 https://love.cedip88524.workers.dev/lx-origin/th-monomax01_720/chunks.m3u8
 
