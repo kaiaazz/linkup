@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:56:8C:3C&stream=1608071&extension=m3u8
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:53:78:30&stream=1641636&extension=m3u8
 http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:2F:23:B8&stream=762994&extension=m3u8
 
