@@ -1,9 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://34603-owned.ott-cdn.me:80/play/live.php?mac=00%3A1A%3A79%3A2B%3A70%3A82&stream=1284541&extension=m3u8
-http://globalgnet.live:80/play/live.php?mac=00:1A:79:61:30:32&stream=1749221&extension=m3u8
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:B5:B2:1B&stream=483974&extension=m3u8
+http://globalgnet.live:80/play/live.php?mac=00:1A:79:61:30:32&stream=1749221&extension=m3u8
+
+
 
 
 
