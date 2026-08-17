@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1314088&extension=m3u8
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:2F:23:B8&stream=394282&extension=m3u8
 http://185.191.127.129:2095/play/live.php?mac=10:27:BE:15:B8:3C&stream=348096&extension=m3u8
 http://mlnldino.xyz:80/play/live.php?mac=00:1A:79:77:55:AC&stream=827980&extension=m3u8
 
