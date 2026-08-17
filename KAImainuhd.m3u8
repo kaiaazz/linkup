@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://line.wishiptv.vip:80/play/live.php?mac=00:1A:79:CD:52:F4&stream=1641636&extension=m3u8
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:2F:23:B8&stream=762994&extension=m3u8
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:56:8C:3C&stream=1641636&extension=m3u8
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:83:2A:95&stream=1312008&extension=m3u8
 http://line.trx-ott.com:80/play/live.php?mac=00:1A:79:00:29:39&stream=1379047&extension=m3u8 , tnt ulimate
