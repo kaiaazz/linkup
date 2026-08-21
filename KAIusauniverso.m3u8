@@ -3,6 +3,7 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:56:8C:3C&stream=1930892&extension=m3u8
 http://103.176.90.27:80/play/live.php?mac=00:1A:79:C4:2E:B5&stream=1930892&extension=m3u8
+http://204.52.191.254:80/play/live.php?mac=A0:BB:3E:01:B6:FF&stream=1820471&extension=m3u8
 
 
 
