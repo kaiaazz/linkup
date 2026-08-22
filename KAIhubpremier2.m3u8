@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://simpletv.uk:80/play/live.php?mac=00:1A:79:1B:BD:A0&stream=1032528&extension=m3u8
+http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:56:8C:3C&stream=1032528&extension=m3u8
 http://mag.greatott.me:80/play/live.php?mac=10:27:BE:25:5D:26&stream=1903769&extension=m3u8
 http://official8k.com:80/play/live.php?mac=00:1A:79:B6:C2:ED&stream=2065803&extension=m3u8
 http://meilleur-iptv8k.xyz:80/play/live.php?mac=00:1A:79:B6:49:24&stream=827980&extension=m3u8
