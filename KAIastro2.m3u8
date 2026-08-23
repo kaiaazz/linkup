@@ -3,6 +3,7 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://103.176.90.27:80/play/live.php?mac=00:1A:79:C4:2E:B5&stream=918985&extension=m3u8
 http://plpls-lite.ch:80/play/live.php?mac=00%3A1A%3A79%3A05%3AC9%3A83&stream=1016545&extension=m3u8
+http://sbhgoldpro.org:80/play/live.php?mac=00%3A1A%3A79%3AA1%3A89%3ACD&stream=828099&extension=m3u8
 
 
 
