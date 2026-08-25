@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://line.bure.online:80/play/live.php?mac=00:1B:79:41:2A:1A&stream=173897&extension=m3u8
+http://4y-ott.online:80/play/live.php?mac=00:1A:79:C2:40:4E&stream=1149229&extension=m3u8
 http://185.80.197.55:80/play/live.php?mac=00:1A:79:0A:C5:CD&stream=173897&extension=m3u8
 http://foxbleu.pro:80/play/live.php?mac=00:1A:79:22:1A:77&stream=328824&extension=m3u8
 http://premium-iptv.cpltvdm.me:80/play/live.php?mac=00:1a:79:64:37:6b&stream=328824&extension=m3u8
