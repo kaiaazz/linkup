@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://official8k.com:80/play/live.php?mac=00:1A:79:B6:C2:ED&stream=1608068&extension=m3u8
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:56:8C:3C&stream=1608068&extension=m3u8
 http://34603-owned.ott-cdn.me:80/play/live.php?mac=00%3A1A%3A79%3A2B%3A70%3A82&stream=1284557&extension=m3u8
-http://official8k.com:80/play/live.php?mac=00:1A:79:B6:C2:ED&stream=1608068&extension=m3u8
 http://bteg2025.me:80/play/live.php?mac=00:1A:79:D4:3C:F3&stream=1123002&extension=m3u8
 
