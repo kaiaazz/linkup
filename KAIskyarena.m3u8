@@ -1,5 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://mag.jee-ott.xyz:80/play/live.php?mac=00%3A1A%3A79%3ACC%3A4F%3ACD&stream=1458663&extension=m3u8
-http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:C8:7C:76&stream=83455&extension=m3u8
+http://185.80.197.55:80/play/live.php?mac=00:1A:79:0A:C5:CD&stream=30500&extension=m3u8
+http://sansatplus.net:88/live/02025011987513/BJQN6KL5MKOBMP8/1708409.m3u8
+http://alpha6-tx.me:80/play/live.php?mac=00%3A1A%3A79%3AB6%3A15%3A83&stream=1458663&extension=m3u8
+http://4y-ott.online:80/play/live.php?mac=00:1A:79:C2:40:4E&stream=577992&extension=m3u8
+http://gabeddn.xyz:80/play/live.php?mac=00:1A:79:85:CB:95&stream=577992&extension=m3u8
