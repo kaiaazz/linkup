@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://185.191.127.129:2095/play/live.php?mac=10:27:BE:15:B8:3C&stream=9846&extension=m3u8
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:1D:07:C2&stream=1311901&extension=m3u8
 http://204.52.191.254:80/play/live.php?mac=A0:BB:3E:01:B6:FF&stream=1527613&extension=m3u8
 
 
