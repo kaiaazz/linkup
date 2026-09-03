@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://viking24.ddnsking.com:25461/live/kailfc/kaiaazz8833/163536.m3u8
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0A:EA:A5&stream=813034&extension=m3u8
 http://simpletv.uk:80/play/live.php?mac=00:1A:79:1B:BD:A0&stream=1905816&extension=m3u8
 https://love.qt52jh2wim.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8
