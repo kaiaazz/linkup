@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:1D:07:C2&stream=1314078&extension=m3u8
 http://mag.greatott.me:80/play/live.php?mac=10:27:BE:25:5D:26&stream=1903769&extension=m3u8
 http://official8k.com:80/play/live.php?mac=00:1A:79:B6:C2:ED&stream=2065803&extension=m3u8
 http://simpletv.uk:80/play/live.php?mac=00:1A:79:1B:BD:A0&stream=1032528&extension=m3u8
