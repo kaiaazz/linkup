@@ -3,6 +3,7 @@
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://204.52.191.254:80/play/live.php?mac=A0:BB:3E:01:B6:FF&stream=1544239&extension=m3u8
 http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:E9&stream=1544239&extension=m3u8
+http://alpha6-tx.me:80/play/live.php?mac=00%3A1A%3A79%3AB6%3A15%3A83&stream=1608071&extension=m3u8
 http://official8k.com:80/play/live.php?mac=00:1A:79:B6:C2:ED&stream=1608071&extension=m3u8
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:56:8C:3C&stream=1608071&extension=m3u8
 http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:2F:23:B8&stream=762994&extension=m3u8
