@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://45.139.122.199:2095/play/live.php?mac=10:27:BE:25:9B:1F&stream=813037&extension=m3u8
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:0A:EA:A5&stream=813037&extension=m3u8
+http://45.139.122.199:2095/play/live.php?mac=10:27:BE:25:9B:1F&stream=813037&extension=m3u8
 http://103.114.203.129:8080/live/01234playid/playid01234/59047.m3u8
 http://103.114.203.129:8080/live/01234playid/playid01234/78.m3u8
 https://love.hqhg41nafv.workers.dev/lx-origin/th-golf05_720/chunks.m3u8
