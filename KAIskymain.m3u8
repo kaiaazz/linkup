@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://cdnber.site/live/D5286712810AF57/W8OHiqmrwW/17286.m3u8
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1311999&extension=m3u8
 http://alpha6-tx.me:80/play/live.php?mac=00%3A1A%3A79%3AB6%3A15%3A83&stream=30496&extension=m3u8
 http://innovationtv.eu:80/play/live.php?mac=00:1A:79:C4:01:41&stream=83450&extension=m3u8
