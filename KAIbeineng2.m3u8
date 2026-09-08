@@ -1,8 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://line.tv4k.top:80/play/live.php?mac=00:1B:79:41:2C:8C&stream=1313536&extension=m3u8
 http://cdnber.site/live/D5286712810AF57/W8OHiqmrwW/986971.m3u8
-http://candycloudtivione.fyi:80/play/live.php?mac=00:1A:79:BB:4C:2A&stream=1313538&extension=ts
+http://candycloudtivione.fyi:80/play/live.php?mac=00:1A:79:BB:4C:2A&stream=1313538&extension=m3u8
 http://candycloudtivione.fyi:80/play/live.php?mac=00:1A:79:BB:4C:2A&stream=1313536&extension=m3u8
 http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:2F:23:B8&stream=1068947&extension=m3u8
 
