@@ -1,8 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://alpha6-tx.me:80/play/live.php?mac=00%3A1A%3A79%3AB6%3A15%3A83&stream=30497&extension=m3u8
 http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:2F:23:B8&stream=307141&extension=m3u8
+http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:B6:EB:0C&stream=1527623&extension=m3u8
+http://candycloudtivione.fyi:80/play/live.php?mac=00:1A:79:BB:4C:2A&stream=1311998&extension=m3u8
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:C8:7C:76&stream=30497&extension=m3u8
 http://asokax6.com:80/play/live.php?mac=00:1A:79:55:11:77&stream=577987&extension=m3u8
 
 
