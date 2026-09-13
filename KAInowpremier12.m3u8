@@ -1,6 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=auto
-http://mag.jee-ott.xyz:80/play/live.php?mac=00%3A1A%3A79%3ACC%3A4F%3ACD&stream=1032487&extension=m3u8
-
-
