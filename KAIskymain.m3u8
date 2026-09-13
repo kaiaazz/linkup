@@ -1,13 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://cdnber.site/live/D5286712810AF57/W8OHiqmrwW/17286.m3u8
-http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1311999&extension=m3u8
-http://alpha6-tx.me:80/play/live.php?mac=00%3A1A%3A79%3AB6%3A15%3A83&stream=30496&extension=m3u8
-http://innovationtv.eu:80/play/live.php?mac=00:1A:79:C4:01:41&stream=83450&extension=m3u8
-http://185.80.197.55:80/play/live.php?mac=00:1B:79:45:01:BF&stream=30496&extension=m3u8
+http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:B6:EB:0C&stream=1527639&extension=m3u8
+http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:24:80:86&stream=307143&extension=m3u8
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:C8:7C:76&stream=30496&extension=m3u8
 http://103.176.90.27:80/play/live.php?mac=00:1A:79:C4:2E:B5&stream=79476&extension=m3u8
-http://majestic-ott.com:80/play/live.php?mac=00:1A:79:B1:00:8C&stream=215921&extension=m3u8
+http://cdnber.site/live/D5286712810AF57/W8OHiqmrwW/17286.m3u8
 
 
 
