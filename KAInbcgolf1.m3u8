@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:AA:F6:53&stream=858521&extension=m3u8
+http://nexusconnects.org:80/play/live.php?mac=00:1A:79:0E:1F:9E&stream=858521&extension=m3u8
 http://185.245.2.92:80/play/live.php?mac=00:1A:79:85:7E:80&stream=325001&extension=m3u8
 http://innovationtv.eu:80/play/live.php?mac=00:1A:79:C4:01:41&stream=45532&extension=m3u8
 
