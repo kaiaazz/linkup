@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=26000000
-http://skunkytv.live:80/play/live.php?mac=00:1A:79:BA:50:8B&stream=577977&extension=m3u8
 http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:C4:D7:D3&stream=1458669&extension=m3u8
+http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:7A:33:D9&stream=1527637&extension=m3u8
 http://ultvtivon.site:80/live/L8MTM8JTHK8BC6E/NvYFH2feuI/1100811.m3u8
 http://premium-iptv.cpltvdm.me:80/play/live.php?mac=00:1A:79:64:37:6B&stream=215919&extension=m3u8
 
