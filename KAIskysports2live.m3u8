@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:1D:07:C2&stream=1312006&extension=m3u8
-http://line.shehabtv.net:80/play/live.php?mac=00:1A:79:17:20:64&stream=1312005&extension=m3u8
+http://line.shehabtv.net:80/play/live.php?mac=00:1A:79:17:20:64&stream=1312006&extension=m3u8
 http://cdnber.site/live/D5286712810AF57/W8OHiqmrwW/1281427.m3u8
 http://simpletv.uk:80/play/live.php?mac=00:1A:79:A9:0C:9C&stream=1608069&extension=m3u8
 http://simpletv.uk:80/play/live.php?mac=00:1A:79:1B:BD:A0&stream=1608069&extension=m3u8
