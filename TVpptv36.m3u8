@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://viking24.ddnsking.com:25461/live/kailfc/kaiaazz8833/142190.m3u8
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:AD:D2&stream=115501&extension=m3u8
 https://love.catep78148.workers.dev/lx-origin/hd-pptv_720/chunks.m3u8
