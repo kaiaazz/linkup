@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:BA:B3:24&stream=146842&extension=m3u8
 http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:7A:33:D9&stream=791022&extension=m3u8
 http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:B6:EB:0C&stream=791022&extension=m3u8
 http://mag.jee-ott.xyz:80/play/live.php?mac=00:1A:79:56:8C:3C&stream=1032487&extension=m3u8
