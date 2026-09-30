@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://visy24.com:80/live/MAGV7CTZK2/MAGULW46GX/1470225.m3u8
 http://trekronor.tv:2095/play/live.php?mac=10:27:BE:2D:9D:A2&stream=348094&extension=m3u8
