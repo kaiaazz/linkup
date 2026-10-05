@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+https://live-us1.thaimomo.com/live-as/chtsport-1/chunklist_w190352785.m3u8
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:AD:D2&stream=115542&extension=m3u8
 http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:AD:D2&stream=115798&extension=m3u8
 https://love.tivov68423.workers.dev/lx-origin/sd-tsports_720/chunks.m3u8
