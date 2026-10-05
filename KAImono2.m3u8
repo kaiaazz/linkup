@@ -2,6 +2,8 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://103.114.203.129:8080/live/01234playid/playid01234/50397.m3u8
+http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115516&extension=m3u8
+http://macete.xyz:2095/play/live.php?mac=00:1A:79:AB:ED:5A&stream=115771&extension=m3u8
 https://love.qt52jh2wim.workers.dev/lx-origin/th-monomax02_720/chunks.m3u8
 
 
