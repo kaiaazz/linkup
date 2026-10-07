@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://1tv.ottcst.org/live/Rdoueihy/7JCMTFVCTB/1562261.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:fb:5c:57&stream=894978&extension=m3u8
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:1D:07:C2&stream=1311900&extension=m3u8
 http://103.176.90.27:80/play/live.php?mac=00:1A:79:C4:2E:B5&stream=1905816&extension=m3u8
 http://204.52.191.254:80/play/live.php?mac=A0:BB:3E:01:B6:FF&stream=1527615&extension=m3u8
