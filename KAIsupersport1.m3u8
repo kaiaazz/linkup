@@ -1,8 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:fb:5c:57&stream=299&extension=m3u8
 http://whalesayblue.top:80/live/158M75J8H3CN1H1/pgqXpMSlNz/491819.m3u8
 http://1tv.ottcst.org/live/Rdoueihy/7JCMTFVCTB/1562258.m3u8
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:fb:5c:57&stream=299&extension=m3u8
 http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=62637&extension=m3u8
 
 
