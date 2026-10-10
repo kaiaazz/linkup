@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1312008&extension=m3u8
 http://trxx.in:80/play/live.php?mac=00:1B:79:C1:CF:0D&stream=1471387&extension=m3u8
 http://tv-275228.ifiesta.net:80/live/TV-14650030923070/116630916768/234652.m3u8
 http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:18:77:4E&stream=1641636&extension=m3u8
