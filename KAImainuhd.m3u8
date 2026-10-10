@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://pro.auramax.name:80/play/live.php?mac=00:1A:79:B6:5F:E9&stream=1544239&extension=m3u8
 http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:2F:23:B8&stream=762994&extension=m3u8
 http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1312008&extension=m3u8
 http://trxx.in:80/play/live.php?mac=00:1B:79:C1:CF:0D&stream=1471387&extension=m3u8
