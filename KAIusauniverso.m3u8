@@ -1,10 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://zenroom.live:80/play/live.php?mac=00:1A:79:00:1C:C1&stream=265006&extension=m3u8
-http://45.139.122.199:2095/play/live.php?mac=10:27:BE:25:9B:30&stream=2121860&extension=m3u8
-http://204.52.191.254:80/play/live.php?mac=A0:BB:3E:01:B6:FF&stream=1820471&extension=m3u8
-
+http://trxx.in:80/play/live.php?mac=00:1B:79:C1:CF:0D&stream=75292&extension=m3u8
 
 
 
