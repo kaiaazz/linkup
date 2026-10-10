@@ -1,9 +1,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:FB:87:D8&stream=1312008&extension=m3u8
 http://trxx.in:80/play/live.php?mac=00:1B:79:C1:CF:0D&stream=1905924&extension=m3u8
 http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:00:2A:F7&stream=1544239&extension=m3u8
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:FB:87:D8&stream=1312008&extension=m3u8
 http://simpletv.uk:80/play/live.php?mac=00:1A:79:1B:BD:A0&stream=1471387&extension=m3u8
 http://185.191.127.129:2095/play/live.php?mac=10:27:BE:15:B8:3C&stream=514345&extension=m3u8
 http://simpletv.uk:80/play/live.php?mac=00:1A:79:1B:BD:A0&stream=1608071&extension=m3u8
