@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:FB:87:D8&stream=1314078&extension=m3u8
 http://line.tv4k.top:80/play/live.php?mac=00:1A:79:12:7C:0C&stream=1314078&extension=m3u8
 http://main.light-ott.net:80/play/live.php?mac=00:1A:79:fb:5c:57&stream=1313248&extension=m3u8
 http://line.tv4k.top:80/play/live.php?mac=00:1B:79:41:2C:8C&stream=1314088&extension=m3u8
