@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://103.176.90.27:80/play/live.php?mac=00:1A:79:C4:2E:B5&stream=1608071&extension=m3u8
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:41:33:CA&stream=1312008&extension=m3u8
 http://trxx.in:80/play/live.php?mac=00:1B:79:C1:CF:0D&stream=1641636&extension=m3u8
 http://hottest.vip:80/play/live.php?mac=00:1A:79:BD:CF:9D&stream=1608071&extension=m3u8
@@ -20,6 +19,7 @@ http://34603-owned.ott-cdn.me:80/play/live.php?mac=00%3A1A%3A79%3A2B%3A70%3A82&s
 http://204.52.191.254:80/play/live.php?mac=A0:BB:3E:01:B6:FF&stream=1544239&extension=m3u8
 http://technologycloud.eu:80/play/live.php?mac=00:1A:79:53:78:30&stream=1641636&extension=m3u8
 http://gertikanale.com:80/live/TH23XP7J4525UD7/Kj6TVpmC3Q/1281430.m3u8
+http://103.176.90.27:80/play/live.php?mac=00:1A:79:C4:2E:B5&stream=1608071&extension=m3u8
 
 
 
