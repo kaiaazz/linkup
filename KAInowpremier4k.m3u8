@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://hostengine.live/live/john/franklin/314564.m3u8
 http://gertikanale.com:80/live/TH23XP7J4525UD7/Kj6TVpmC3Q/1301200.m3u8
 http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:B6:EB:0C&stream=1556135&extension=m3u8
 http://pro.8k-strong.tv:80/play/live.php?mac=00:1B:79:3E:40:72&stream=1556135&extension=m3u8
