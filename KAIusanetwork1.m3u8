@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://1tv41.icu:8080/live/yH7jKg/774900/10252.m3u8
 http://trxx.in:80/play/live.php?mac=00:1B:79:C1:CF:0D&stream=174998&extension=m3u8
 
 
