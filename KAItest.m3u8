@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 http://line.shehabtv.net:80/play/live.php?mac=00:1A:79:52:49:22&stream=1017405&extension=m3u8
 http://link4king.xyz:8080/live/Saadmohammadia1/52TqLFMZHQMaIvA/237519.m3u8
 http://1tv.ottcst.org/live/Rdoueihy/7JCMTFVCTB/1165168.m3u8
