@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://foxx4k.com:7355/live/PR2622675536427/9997222440879/158960.m3u8
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:38:33:85&stream=1312008&extension=m3u8
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 http://line.shehabtv.net:80/play/live.php?mac=00:1A:79:52:49:22&stream=1017405&extension=m3u8
