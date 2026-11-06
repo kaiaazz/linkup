@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://mastercdn.xyz:80/live/M3QVD8953AZ4RZE/aoSV4RSrvK/200924.m3u8
 http://asokax6.com:80/play/live.php?mac=00%3A1A%3A79%3A55%3A11%3A77&stream=826144&extension=m3u8
 http://pro.testbestrest.one:80/play/live.php?mac=00:1A:79:B6:EB:0C&stream=1367447&extension=m3u8
 http://btc.mining-vegasbaby.com:80/play/live.php?mac=00:1A:79:BA:B3:24&stream=106029&extension=m3u8
