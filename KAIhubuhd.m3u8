@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
 http://line.tv4k.top:80/play/live.php?mac=00:1B:79:41:2C:8C&stream=1314078&extension=m3u8
+http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:31:33:32&stream=1314078&extension=m3u8
 http://fullhdtv.link:8080/play/live.php?mac=10:27:BE:2F:23:B8&stream=394282&extension=m3u8
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:1D:07:C2&stream=1314088&extension=m3u8
 http://91.208.115.23:80/play/live.php?mac=00:1B:79:4C:1E:BD&stream=1313248&extension=m3u8
