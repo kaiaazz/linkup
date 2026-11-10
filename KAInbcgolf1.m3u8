@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://hostengine.live/live/john/franklin/53385.m3u8
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:31:33:32&stream=858521&extension=m3u8
 http://fullhdtv.link:8080/play/live.php?mac=00:1A:79:B3:1C:B2&stream=185397&extension=m3u8
 http://foxx4k.com:7355/live/PR2622675536427/9997222440879/227687.m3u8
