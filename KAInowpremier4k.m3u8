@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://hostengine.live/live/john/franklin/314564.m3u8
 http://line.tvdsz.cc:80/play/live.php?mac=00:1A:79:31:33:32&stream=1314088&extension=m3u8
+http://hostengine.live/live/john/franklin/314564.m3u8
 http://sxstreem.net:80/live/MAGGYY16VN/MAGJRFVTJ6/438866.m3u8
 http://ultvtivon.site:80/live/L8MTM8JTHK8BC6E/NvYFH2feuI/438866.m3u8
 http://gertikanale.com:80/live/TH23XP7J4525UD7/Kj6TVpmC3Q/1301200.m3u8
