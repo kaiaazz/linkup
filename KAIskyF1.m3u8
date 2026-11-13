@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:A1:F4:1F&stream=1312007&extension=m3u8
 http://hostengine.live/live/john/franklin/309257.m3u8
 http://denmawe.com/live/D5286712810AF57/W8OHiqmrwW/76642.m3u8
 http://1tv.ottcst.org/live/Rdoueihy/7JCMTFVCTB/1165168.m3u8
@@ -10,7 +9,7 @@ http://45.139.122.199:2095/play/live.php?mac=10:27:BE:25:9B:30&stream=1186321&ex
 http://204.52.191.254:80/play/live.php?mac=A0:BB:3E:01:B6:FF&stream=1544244&extension=m3u8
 http://asokax6.com:80/play/live.php?mac=00:1A:79:55:11:77&stream=1134459&extension=m3u8
 http://mag.marsweb.co:80/play/live.php?mac=00:1A:79:C4:D7:D3&stream=30499&extension=m3u8
-
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:A1:F4:1F&stream=1312007&extension=m3u8
 
 
 
