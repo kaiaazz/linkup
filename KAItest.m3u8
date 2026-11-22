@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://trxx.in:80/play/live.php?mac=00:1B:79:C1:CF:0D&stream=1641636&extension=m3u8
 http://lol.bz/live/fb4Y8pYg/cCc2rwW8/348094.m3u8
 http://foxx4k.com:7355/live/PR2622675536427/9997222440879/158960.m3u8
 http://main.light-ott.net:80/play/live.php?mac=00:1B:79:38:33:85&stream=1312008&extension=m3u8
