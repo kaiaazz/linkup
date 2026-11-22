@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=27000000
+http://boss.ddns.net:80/play/live.php?mac=00:1A:79:BD:D2:F1&stream=1608071&extension=m3u8
 http://atrupo4k.com:8080/live/Hdhsh7272bh/Hshsh7262/237519.m3u8
 http://hostengine.live/live/john/franklin/317098.m3u8
 http://foxx4k.com:7355/live/PR2622675536427/9997222440879/158961.m3u8
